@@ -1,4 +1,5 @@
 class Doggo { // WHAT DOES AN INDIVIDUAL DOG NEED TO DO
+    
     // the idea here is you take each object that comes in and you are going to turn it into this dog
     //.. object with these special methods below that can do
     constructor(dog) {
